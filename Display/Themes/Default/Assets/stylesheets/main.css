@@ -1,0 +1,32 @@
+html, body {
+  margin: 0px;
+  padding: 0px; }
+
+body {
+  font-family: "Roboto", sans-serif; }
+
+a {
+  text-decoration: none;
+  color: #367298;
+  font-weight: bold; }
+
+a:hover {
+  color: #174969; }
+
+nav#top {
+  background-color: #438ab7; }
+  nav#top a {
+    color: white; }
+  nav#top a:hover {
+    color: #c8c8c8; }
+  nav#top .pad {
+    padding: 5px; }
+
+#container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%; }
+  #container .pad {
+    padding: 10px; }
+
+/*# sourceMappingURL=main.css.map */
